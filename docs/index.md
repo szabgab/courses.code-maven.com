@@ -7,7 +7,9 @@ Organizer by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | When       | Language   | What |
 | ---------- | ---------- | ---- |
 |            |            | |
+<!--
 | 2024.08.29 | Rust       | [Rust Source Code Reading: The thousands crate](https://www.meetup.com/code-mavens/events/302391142/) |
+-->
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
 
