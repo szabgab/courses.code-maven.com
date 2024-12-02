@@ -4,10 +4,11 @@ Organizer by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 ## Schedule of the public events:
 
-| When       | Language   | What |
-| ---------- | ---------- | ---- |
-|            |            | |
-| 2024.12.17 | Rust       | [Rust Source Code Reading: The thousands crate](https://www.meetup.com/code-mavens/events/304824684/) |
+| When       | Language   | Title | Register |
+| ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+|            |            |                                                                                                                                                  |          |
+| 2024.12.17 | Rust       | [Rust Source Code Reading: The thousands crate](https://rust.code-maven.com/the-thousands-crate)                                                 | [register](https://www.meetup.com/code-mavens/events/304824684/) |
+| 2025.01.20 | Perl       | [GitLab pipelines and CI for Perl developers](https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers)                                 | [register](https://www.meetup.com/code-mavens/events/304874972/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
 
