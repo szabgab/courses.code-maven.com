@@ -8,8 +8,9 @@ Organizer by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
 |            |            |                                                                                                                                                  |          |
 | 2024.12.17 | Rust       | [Rust Source Code Reading: The thousands crate](https://rust.code-maven.com/the-thousands-crate)                                                 | [register](https://www.meetup.com/code-mavens/events/304824684/) |
+| 2025.01.06 | Python     | [logger.info(f"Don't Give all your {secrets} away") with Tamar Galer](https://python.code-maven.com/logger-info-with-tamar-galer)                | [register](https://www.meetup.com/code-mavens/events/305045436/) |
 | 2025.01.07 | Rust       | [Microdosing Rust to your organization with Aviram Hassan](https://rust.code-maven.com/microdosing-rust-to-your-organization)                    | [register](https://www.meetup.com/code-mavens/events/304883841/) |
-| 2025.01.08 | Rust       | [BlockMesh Network implemented in Rust with Ohad Dahan](/block-mesh-network)                                                                     | [register](https://www.meetup.com/code-mavens/events/304951805/)  |
+| 2025.01.08 | Rust       | [BlockMesh Network implemented in Rust with Ohad Dahan](/block-mesh-network)                                                                     | [register](https://www.meetup.com/code-mavens/events/304951805/) |
 | 2025.01.20 | Perl       | [GitLab pipelines and CI for Perl developers](https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers)                                 | [register](https://www.meetup.com/code-mavens/events/304874972/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
