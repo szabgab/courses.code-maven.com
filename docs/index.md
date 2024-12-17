@@ -18,6 +18,20 @@ Organizer by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 * Separate pages for [Rust](https://rust.code-maven.com/live), [Python](https://python.code-maven.com/live), and [Perl](https://perlmaven.com/live).
 
+## What is this?
+
+At the Code Maven live events hosted by Gabor Szabo you will learn how to use various programming libraries. We focus on Rust, Python, and Perl projects as well as Git/GitHub/GitLab, Docker and Linux in general.
+
+There are various types of events.
+
+* A guest presents a lecture s/he has prepared. (Maybe even given at an in-person event or in some other language.)
+* A guest shows us her/his project. (e.g. the guest wrote a crate in Rust and shows us how to use it and maybe also how to contribute to it.) (This can be ad-hoc, after all the guest knows this stuff rather well.)
+* A guest teaches us some technique in a rather ad-hoc manner. e.g. How to use Tauri to build a small application.
+* Gabor Szabo, the host presents some topic. (All the old presentations are like this.)
+
+Each event can be up to 1 hour long (with some extra time if needed).
+
+
 ## Earlier events and video recordings
 
 | When       | Language   | Video recordings and notes                                                                                                                       |  event                                                        |
@@ -37,6 +51,6 @@ Organizer by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2024.08.04 | Perl       | [Continuous Integration (CI): GitHub Actions for Perl Projects](https://perlmaven.com/github-actions-for-perl-projects)                          | [event](https://www.meetup.com/code-mavens/events/301413566/) |
 | 2024.08.06 | Rust       | [Web development in Rust using Rocket - part 2](https://rust.code-maven.com/web-development-in-rust-using-rocket-building-a-job-board)           | [event](https://www.meetup.com/code-mavens/events/301736709/) |
 | 2024.08.15 | Perl       | [GitHub Pages for Perl developers](https://perlmaven.com/github-pages-for-perl-developers)                                                       | [event](https://www.meetup.com/code-mavens/events/301871765/) |
-| 2024.08.28 | Rust       | [Command Line Tools: Implementing wc in Rust](https://rust.code-maven.com/implementing-wc-in-rust)  | [event](https://www.meetup.com/code-mavens/events/302151487/) |
+| 2024.08.28 | Rust       | [Command Line Tools: Implementing wc in Rust](https://rust.code-maven.com/implementing-wc-in-rust)                                               | [event](https://www.meetup.com/code-mavens/events/302151487/) |
 
 
