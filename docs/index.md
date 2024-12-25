@@ -1,8 +1,8 @@
 # Code-Maven Live events
 
-Organizer by [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
+Organizer: [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
-## Schedule of the public events:
+## Schedule:
 
 | When       | Language   | Title | Register |
 | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
