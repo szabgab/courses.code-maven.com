@@ -12,7 +12,8 @@ Organizer: [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2025.01.15 | Rust       | [An introduction to WASM in Rust with Márk Tolmács](https://rust.code-maven.com/an-introduction-to-wasm-in-rust)                                 | [register](https://www.meetup.com/code-mavens/events/305064546/) |
 | 2025.01.20 | Perl       | [GitLab pipelines and CI for Perl developers](https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers)                                 | [register](https://www.meetup.com/code-mavens/events/304874972/) |
 | 2025.01.27 | Python     | [The Reference Model for COVID-19 attempts to explain USA data with Jacob Barhak](https://python.code-maven.com/covid-19-with-jacob-barhak)      | [register](https://www.meetup.com/code-mavens/events/305357268/) |
-| 2025.01.30 | Rust       | [Are We Embedded Yet? - Implementing tiny HTTP server on a microcontroller with Maor Malka](/are-we-embedded-yet)                                | [register](https://www.meetup.com/code-mavens/events/305382647/) |
+| 2025.01.30 | Rust       | [Are We Embedded Yet? - Implementing tiny HTTP server on a microcontroller with Maor Malka](https://rust.code-maven.com//are-we-embedded-yet)    | [register](https://www.meetup.com/code-mavens/events/305382647/) |
+| 2025.02.03 | Python     | [How to Make Your Backend Roar with Haki Benita](https://python.code-maven.com/how-to-make-your-backend-roar)                                    | [register](https://www.meetup.com/code-mavens/events/305374633/) |
 | 2025.02.20 | Python     | [Simulations for the Mathematically Challenged with Miki Tebeka](https://python.code-maven.com/simulations-for-the-mathematically-challenged)    | [register](https://www.meetup.com/code-mavens/events/305223619/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
