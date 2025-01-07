@@ -57,4 +57,22 @@ Each event can be up to 1 hour long (with some extra time if needed).
 | 2024.12.17 | Rust       | [Rust Source Code Reading: The thousands crate](https://rust.code-maven.com/the-thousands-crate)                                                 | [event](https://www.meetup.com/code-mavens/events/304824684/) |
 | 2025.01.06 | Python     | [logger.info(f"Don't Give all your {secrets} away") with Tamar Galer](https://python.code-maven.com/logger-info-with-tamar-galer)                | [event](https://www.meetup.com/code-mavens/events/305045436/) |
 
+## Introducing your project
+
+If you are introducing a project of you, here are some questions you might want to answer in your presentation.
+
+* Who are you?
+* What is your background?
+* What do you do?
+
+* What problem does this project solve?
+* What did people do before your project?
+* How to use your project?
+* Why did you write it in Python/Rust/Perl/etc.?
+* Why did you write it at all?
+* What alternatives are there, in which way is this better?
+* Show us your implementation.
+* What is missing in your project?
+* How can one contribute?
+
 
