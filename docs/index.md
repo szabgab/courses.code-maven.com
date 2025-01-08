@@ -15,6 +15,7 @@ Organizer: [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2025.02.03 | Python     | [How to Make Your Backend Roar with Haki Benita](https://python.code-maven.com/how-to-make-your-backend-roar)                                    | [register](https://www.meetup.com/code-mavens/events/305374633/) |
 | 2025.02.05 | Python     | [The Evolution of Python Monitoring with May Walter](https://python.code-maven.com/the-evolution-of-python-monitoring)                           | [register](https://www.meetup.com/code-mavens/events/305453203/) |
 | 2025.02.20 | Python     | [Simulations for the Mathematically Challenged with Miki Tebeka](https://python.code-maven.com/simulations-for-the-mathematically-challenged)    | [register](https://www.meetup.com/code-mavens/events/305223619/) |
+| 2025.02.25 | Python     | [Reducing your memory footprint by 75% with 6 lines with Tomer Brisker](https://python.code-maven.com/reducing-your-memory-footprint-by-75-with-6-lines) | [register](https://www.meetup.com/code-mavens/events/305492369/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
 
