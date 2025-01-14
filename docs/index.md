@@ -16,6 +16,7 @@ Organizer: [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2025.02.11 | Rust       | [Meet Elusion: New DataFrame Library powered by Rust 🦀 with Borivoj Grujicic](https://rust.code-maven.com/meet-elusion-mew-dataframe-library)   | [register](https://www.meetup.com/code-mavens/events/305513416/) |
 | 2025.02.20 | Python     | [Simulations for the Mathematically Challenged with Miki Tebeka](https://python.code-maven.com/simulations-for-the-mathematically-challenged)    | [register](https://www.meetup.com/code-mavens/events/305223619/) |
 | 2025.02.25 | Python     | [Reducing your memory footprint by 75% with 6 lines with Tomer Brisker](https://python.code-maven.com/reducing-your-memory-footprint)            | [register](https://www.meetup.com/code-mavens/events/305492369/) |
+| 2025.03.09 | Rust       | [Creating A Mock Blockchain in Rust with Sourav Mishra](https://rust.code-maven.com//creating-a-mock-blockchain-in-rust)                         | [register](https://www.meetup.com/code-mavens/events/305587087/) |
 | 2025.03.11 | Python     | [Using Streamlit to create interactive web apps & deploy machine learning models with Leah Levy](https://python.code-maven.com/using-streamlit)  | [register](https://www.meetup.com/code-mavens/events/305584832/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
