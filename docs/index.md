@@ -7,7 +7,6 @@ Organizer: [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | When       | Language   | Title | Register |
 | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
 |            |            |                                                                                                                                                  |          |
-| 2025.01.15 | Rust       | [An introduction to WASM in Rust with Márk Tolmács](https://rust.code-maven.com/an-introduction-to-wasm-in-rust)                                 | [register](https://www.meetup.com/code-mavens/events/305064546/) |
 | 2025.01.20 | Perl       | [GitLab pipelines and CI for Perl developers](https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers)                                 | [register](https://www.meetup.com/code-mavens/events/304874972/) |
 | 2025.01.27 | Python     | [The Reference Model for COVID-19 attempts to explain USA data with Jacob Barhak](https://python.code-maven.com/covid-19-with-jacob-barhak)      | [register](https://www.meetup.com/code-mavens/events/305357268/) |
 | 2025.01.30 | Rust       | [Are We Embedded Yet? - Implementing tiny HTTP server on a microcontroller with Maor Malka](https://rust.code-maven.com//are-we-embedded-yet)    | [register](https://www.meetup.com/code-mavens/events/305382647/) |
@@ -60,6 +59,7 @@ Each event can be up to 1 hour long (with some extra time if needed).
 | 2024.12.17 | Rust       | [Rust Source Code Reading: The thousands crate](https://rust.code-maven.com/the-thousands-crate)                                                 | [event](https://www.meetup.com/code-mavens/events/304824684/) |
 | 2025.01.06 | Python     | [logger.info(f"Don't Give all your {secrets} away") with Tamar Galer](https://python.code-maven.com/logger-info-with-tamar-galer)                | [event](https://www.meetup.com/code-mavens/events/305045436/) |
 | 2025.01.08 | Rust       | [BlockMesh Network implemented in Rust with Ohad Dahan](https://rust.code-maven.com/block-mesh-network)                                          | [event](https://www.meetup.com/code-mavens/events/304951805/) |
+| 2025.01.15 | Rust       | [An introduction to WASM in Rust with Márk Tolmács](https://rust.code-maven.com/an-introduction-to-wasm-in-rust)                                 | [event](https://www.meetup.com/code-mavens/events/305064546/) |
 
 ## Introducing your project
 
