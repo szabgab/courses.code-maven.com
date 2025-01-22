@@ -12,11 +12,9 @@ Organizer: [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2025.02.03 | Python     | [How to Make Your Backend Roar with Haki Benita](https://python.code-maven.com/how-to-make-your-backend-roar)                                    | [register](https://www.meetup.com/code-mavens/events/305374633/) |
 | 2025.02.05 | Python     | [The Evolution of Python Monitoring with May Walter](https://python.code-maven.com/the-evolution-of-python-monitoring)                           | [register](https://www.meetup.com/code-mavens/events/305453203/) |
 | 2025.02.11 | Rust       | [Meet Elusion: New DataFrame Library powered by Rust 🦀 with Borivoj Grujicic](https://rust.code-maven.com/meet-elusion-mew-dataframe-library)   | [register](https://www.meetup.com/code-mavens/events/305513416/) |
-
+| 2025.02.12 | Python     | [Python async.io - From zero to hero with Eyal Balla](https://python.code-maven.com/async-io-from-zero-to-hero)                                  | [register](https://www.meetup.com/code-mavens/events/305479458/) |
 | 2025.02.20 | Python     | [Simulations for the Mathematically Challenged with Miki Tebeka](https://python.code-maven.com/simulations-for-the-mathematically-challenged)    | [register](https://www.meetup.com/code-mavens/events/305223619/) |
 | 2025.02.25 | Python     | [Reducing your memory footprint by 75% with 6 lines with Tomer Brisker](https://python.code-maven.com/reducing-your-memory-footprint)            | [register](https://www.meetup.com/code-mavens/events/305492369/) |
-
-
 | 2025.03.06 | Rust       | [Ratatui - Terminal User Interface in Rust with Orhun Parmaksız](https://rust.code-maven.com/ratatui-tui-in-rust)                                | [register](https://www.meetup.com/code-mavens/events/305750365/) |
 | 2025.03.09 | Rust       | [Creating A Mock Blockchain in Rust with Sourav Mishra](https://rust.code-maven.com//creating-a-mock-blockchain-in-rust)                         | [register](https://www.meetup.com/code-mavens/events/305587087/) |
 | 2025.03.11 | Python     | [Using Streamlit to create interactive web apps & deploy machine learning models with Leah Levy](https://python.code-maven.com/using-streamlit)  | [register](https://www.meetup.com/code-mavens/events/305584832/) |
