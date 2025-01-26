@@ -33,7 +33,7 @@ There are various types of events.
 
 * A guest presents a lecture s/he has prepared. (Maybe even given at an in-person event or in some other language.)
 * A guest shows us her/his project. (e.g. the guest wrote a crate in Rust and shows us how to use it and maybe also how to contribute to it.) (This can be ad-hoc, after all the guest knows this stuff rather well.)
-* A guest teaches us some technique in a rather ad-hoc manner. e.g. How to use Tauri to build a small application.
+* A guest teaches us some technique in a rather ad-hoc manner using the concept of pair-programming. e.g. How to use Tauri to build a small application.
 * Gabor Szabo, the host presents some topic. (All the old presentations are like this.)
 
 Each event can be up to 1 hour long (with some extra time if needed).
