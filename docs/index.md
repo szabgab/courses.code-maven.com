@@ -23,7 +23,7 @@ Organizer: [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
 
-* Separate pages for [Rust](https://rust.code-maven.com/live), [Python](https://python.code-maven.com/live), and [Perl](https://perlmaven.com/live).
+* Separate pages for [Rust](https://rust.code-maven.com/live), [Python](https://python.code-maven.com/live), and [Perl](https://perlmaven.com/live) events.
 
 ## What is this?
 
