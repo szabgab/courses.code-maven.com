@@ -19,6 +19,7 @@ Organizer: [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | 2025.03.06 | Rust       | [Ratatui - Terminal User Interfaces in Rust with Orhun Parmaksız](https://rust.code-maven.com/ratatui-tui-in-rust)                               | [register](https://www.meetup.com/code-mavens/events/305750365/) |
 | 2025.03.09 | Rust       | [Creating A Mock Blockchain in Rust with Sourav Mishra](https://rust.code-maven.com//creating-a-mock-blockchain-in-rust)                         | [register](https://www.meetup.com/code-mavens/events/305587087/) |
 | 2025.03.11 | Python     | [Using Streamlit to create interactive web apps & deploy machine learning models with Leah Levy](https://python.code-maven.com/using-streamlit)  | [register](https://www.meetup.com/code-mavens/events/305584832/) |
+| 2025.03.18 | Rust       | [crum: Complex Numbers and Complex Matrices in Rust with Frans Slabber](https://rust.code-maven.com/crum)                                        | [register](https://www.meetup.com/code-mavens/events/305823397/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
 
