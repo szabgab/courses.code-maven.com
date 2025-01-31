@@ -1,6 +1,8 @@
 # Code-Maven Live events
 
-Organizer: [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
+[About Code-Mavens live events](/about)
+
+Organizer: [Gabor Szabo](https://szabgab.com/)
 
 ## Schedule:
 
@@ -22,20 +24,6 @@ Organizer: [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
 
 * Separate pages for [Rust](https://rust.code-maven.com/live), [Python](https://python.code-maven.com/live), and [Perl](https://perlmaven.com/live) events.
-
-## What is this?
-
-At the Code Maven live events hosted by Gabor Szabo you will learn how to use various programming libraries. We focus on Rust, Python, and Perl projects as well as Git/GitHub/GitLab, Docker and Linux in general.
-
-There are various types of events.
-
-* A guest presents a lecture s/he has prepared. (Maybe even given at an in-person event or in some other language.)
-* A guest shows us her/his project. (e.g. the guest wrote a crate in Rust and shows us how to use it and maybe also how to contribute to it.) (This can be ad-hoc, after all the guest knows this stuff rather well.)
-* A guest teaches us some technique in a rather ad-hoc manner using the concept of pair-programming. e.g. How to use Tauri to build a small application.
-* Gabor Szabo, the host presents some topic. (All the old presentations are like this.)
-
-Each event can be up to 1 hour long (with some extra time if needed).
-
 
 ## Earlier events and video recordings
 
@@ -64,23 +52,5 @@ Each event can be up to 1 hour long (with some extra time if needed).
 | 2025.01.20 | Perl       | [GitLab pipelines and CI for Perl developers](https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers)                                 | [event](https://www.meetup.com/code-mavens/events/304874972/) |
 | 2025.01.27 | Python     | [The Reference Model for COVID-19 attempts to explain USA data with Jacob Barhak](https://python.code-maven.com/covid-19-with-jacob-barhak)      | [event](https://www.meetup.com/code-mavens/events/305357268/) |
 | 2025.01.30 | Rust       | [Are We Embedded Yet? - Implementing tiny HTTP server on a microcontroller with Maor Malka](https://rust.code-maven.com//are-we-embedded-yet)    | [event](https://www.meetup.com/code-mavens/events/305382647/) |
-
-## Introducing your project
-
-If you are introducing a project of you, here are some questions you might want to answer in your presentation.
-
-* Who are you?
-* What is your background?
-* What do you do?
-
-* What problem does this project solve?
-* What did people do before your project?
-* How to use your project?
-* Why did you write it in Python/Rust/Perl/etc.?
-* Why did you write it at all?
-* What alternatives are there, in which way is this better?
-* Show us your implementation.
-* What is missing in your project?
-* How can one contribute?
 
 
