@@ -7,8 +7,6 @@ Organizer: [Gabor Szabo](https://www.linkedin.com/in/szabgab/).
 | When       | Language   | Title | Register |
 | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
 |            |            |                                                                                                                                                  |          |
-| 2025.01.27 | Python     | [The Reference Model for COVID-19 attempts to explain USA data with Jacob Barhak](https://python.code-maven.com/covid-19-with-jacob-barhak)      | [register](https://www.meetup.com/code-mavens/events/305357268/) |
-| 2025.01.30 | Rust       | [Are We Embedded Yet? - Implementing tiny HTTP server on a microcontroller with Maor Malka](https://rust.code-maven.com//are-we-embedded-yet)    | [register](https://www.meetup.com/code-mavens/events/305382647/) |
 | 2025.02.03 | Python     | [How to Make Your Backend Roar with Haki Benita](https://python.code-maven.com/how-to-make-your-backend-roar)                                    | [register](https://www.meetup.com/code-mavens/events/305374633/) |
 | 2025.02.05 | Python     | [The Evolution of Python Monitoring with May Walter](https://python.code-maven.com/the-evolution-of-python-monitoring)                           | [register](https://www.meetup.com/code-mavens/events/305453203/) |
 | 2025.02.11 | Rust       | [Meet Elusion: New DataFrame Library powered by Rust 🦀 with Borivoj Grujicic](https://rust.code-maven.com/meet-elusion-mew-dataframe-library)   | [register](https://www.meetup.com/code-mavens/events/305513416/) |
@@ -64,6 +62,8 @@ Each event can be up to 1 hour long (with some extra time if needed).
 | 2025.01.08 | Rust       | [BlockMesh Network implemented in Rust with Ohad Dahan](https://rust.code-maven.com/block-mesh-network)                                          | [event](https://www.meetup.com/code-mavens/events/304951805/) |
 | 2025.01.15 | Rust       | [An introduction to WASM in Rust with Márk Tolmács](https://rust.code-maven.com/an-introduction-to-wasm-in-rust)                                 | [event](https://www.meetup.com/code-mavens/events/305064546/) |
 | 2025.01.20 | Perl       | [GitLab pipelines and CI for Perl developers](https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers)                                 | [event](https://www.meetup.com/code-mavens/events/304874972/) |
+| 2025.01.27 | Python     | [The Reference Model for COVID-19 attempts to explain USA data with Jacob Barhak](https://python.code-maven.com/covid-19-with-jacob-barhak)      | [event](https://www.meetup.com/code-mavens/events/305357268/) |
+| 2025.01.30 | Rust       | [Are We Embedded Yet? - Implementing tiny HTTP server on a microcontroller with Maor Malka](https://rust.code-maven.com//are-we-embedded-yet)    | [event](https://www.meetup.com/code-mavens/events/305382647/) |
 
 ## Introducing your project
 
