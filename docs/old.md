@@ -25,5 +25,6 @@
 | 2025.01.20 | Perl       | [GitLab pipelines and CI for Perl developers](https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers)                                 | [event](https://www.meetup.com/code-mavens/events/304874972/) |
 | 2025.01.27 | Python     | [The Reference Model for COVID-19 attempts to explain USA data with Jacob Barhak](https://python.code-maven.com/covid-19-with-jacob-barhak)      | [event](https://www.meetup.com/code-mavens/events/305357268/) |
 | 2025.01.30 | Rust       | [Are We Embedded Yet? - Implementing tiny HTTP server on a microcontroller with Maor Malka](https://rust.code-maven.com//are-we-embedded-yet)    | [event](https://www.meetup.com/code-mavens/events/305382647/) |
+| 2025.02.03 | Python     | [How to Make Your Backend Roar with Haki Benita](https://python.code-maven.com/how-to-make-your-backend-roar)                                    | [event](https://www.meetup.com/code-mavens/events/305374633/) |
 
 
