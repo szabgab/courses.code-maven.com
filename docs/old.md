@@ -27,4 +27,6 @@
 | 2025.01.30 | Rust       | [Are We Embedded Yet? - Implementing tiny HTTP server on a microcontroller with Maor Malka](https://rust.code-maven.com//are-we-embedded-yet)    | [event](https://www.meetup.com/code-mavens/events/305382647/) |
 | 2025.02.03 | Python     | [How to Make Your Backend Roar with Haki Benita](https://python.code-maven.com/how-to-make-your-backend-roar)                                    | [event](https://www.meetup.com/code-mavens/events/305374633/) |
 
+| 2025.02.05 | Python     | [The Evolution of Python Monitoring ](https://python.code-maven.com/the-evolution-of-python-monitoring)                           | May Walter       | [register](https://www.meetup.com/code-mavens/events/305453203/) |
+
 
