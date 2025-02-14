@@ -28,5 +28,7 @@
 | 2025.02.03 | Python     | [How to Make Your Backend Roar with Haki Benita](https://python.code-maven.com/how-to-make-your-backend-roar)                                    | [event](https://www.meetup.com/code-mavens/events/305374633/) |
 
 | 2025.02.05 | Python     | [The Evolution of Python Monitoring ](https://python.code-maven.com/the-evolution-of-python-monitoring)                           | May Walter       | [register](https://www.meetup.com/code-mavens/events/305453203/) |
+| 2025.02.11 | Rust       | [Meet Elusion: New DataFrame Library powered by Rust 🦀 ](https://rust.code-maven.com/meet-elusion-mew-dataframe-library)         | Borivoj Grujicic | [register](https://www.meetup.com/code-mavens/events/305513416/) |
+| 2025.02.12 | Python     | [Python async.io - From zero to hero](https://python.code-maven.com/async-io-from-zero-to-hero)                                   | Eyal Balla       | [register](https://www.meetup.com/code-mavens/events/305479458/) |
 
 
