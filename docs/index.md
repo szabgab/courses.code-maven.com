@@ -8,8 +8,6 @@ Organizer: [Gabor Szabo](https://szabgab.com/)
 
 | When       | Language   | Title | Who | Register |
 | ---------- | ---------- | -----------------------------------------------------------------------------------------------------------------------------     | --- | -------- |
-| 2025.02.20 | Python     | [Simulations for the Mathematically Challenged](https://python.code-maven.com/simulations-for-the-mathematically-challenged)      | Miki Tebeka      | [register](https://www.meetup.com/code-mavens/events/305223619/) |
-| 2025.02.25 | Python     | [Reducing your memory footprint by 75% with 6 lines](https://python.code-maven.com/reducing-your-memory-footprint)                | Tomer Brisker    | [register](https://www.meetup.com/code-mavens/events/305492369/) |
 | 2025.03.02 | Git        | Creating a website on GitHub Pages using Markdown                                                                                 | Gábor Szabó      | [register](https://www.meetup.com/code-mavens/events/306048290/) |
 | 2025.03.04 | Rust       | [Parsing with Winnow in Rust](https://rust.code-maven.com/parsing-with-winnow)                                                    | Kenny Flegal     | [register](https://www.meetup.com/code-mavens/events/305793122/) |
 | 2025.03.05 | Python     | [daffodil, data frames for optimized data inspection and logical processing](https://python.code-maven.com/daffodil-data-frames-for-optimized-data-inspection-and-logical-processing)  | Ray Lutz | [register](https://www.meetup.com/code-mavens/events/305731787/) |
@@ -17,6 +15,7 @@ Organizer: [Gabor Szabo](https://szabgab.com/)
 | 2025.03.09 | Rust       | [Creating A Mock Blockchain in Rust](https://rust.code-maven.com//creating-a-mock-blockchain-in-rust)                             | Sourav Mishra    | [register](https://www.meetup.com/code-mavens/events/305587087/) |
 | 2025.03.11 | Python     | [Using Streamlit to create interactive web apps & deploy machine learning models](https://python.code-maven.com/using-streamlit)  | Leah Levy        | [register](https://www.meetup.com/code-mavens/events/305584832/) |
 | 2025.03.18 | Rust       | [crum: Complex Numbers and Complex Matrices in Rust](https://rust.code-maven.com/crum)                                            | Frans Slabber    | [register](https://www.meetup.com/code-mavens/events/305823397/) |
+| 2025.03.20 | Rust       | [Rust and embedded programming](https://rust.code-maven.com/rust-and-embedded-programming-with-leon-vak)                          | Leon Vak         | [register](https://www.meetup.com/code-mavens/events/306357728/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
 
@@ -51,7 +50,9 @@ Organizer: [Gabor Szabo](https://szabgab.com/)
 | 2025.01.30 | Rust       | [Are We Embedded Yet? - Implementing tiny HTTP server on a microcontroller](https://rust.code-maven.com//are-we-embedded-yet)                    | Maor Malka   |
 | 2025.02.03 | Python     | [How to Make Your Backend Roar](https://python.code-maven.com/how-to-make-your-backend-roar)                                                     | Haki Benita  |
 | 2025.02.05 | Python     | [The Evolution of Python Monitoring ](https://python.code-maven.com/the-evolution-of-python-monitoring)                                          | May Walter   |
-| 2025.02.11 | Rust       | [Meet Elusion: New DataFrame Library powered by Rust 🦀 ](https://rust.code-maven.com/meet-elusion-mew-dataframe-library)                     | Borivoj Grujicic |
-| 2025.02.12 | Python     | [Python async.io - From zero to hero](https://python.code-maven.com/async-io-from-zero-to-hero)                                                  | Eyal Balla  |
+| 2025.02.11 | Rust       | [Meet Elusion: New DataFrame Library powered by Rust 🦀 ](https://rust.code-maven.com/meet-elusion-mew-dataframe-library)                        | Borivoj Grujicic |
+| 2025.02.12 | Python     | [Python async.io - From zero to hero](https://python.code-maven.com/async-io-from-zero-to-hero)                                                  | Eyal Balla       |
+| 2025.02.20 | Python     | [Simulations for the Mathematically Challenged](https://python.code-maven.com/simulations-for-the-mathematically-challenged)                     | Miki Tebeka      |
+| 2025.02.25 | Python     | [Reducing your memory footprint by 75% with 6 lines](https://python.code-maven.com/reducing-your-memory-footprint)                               | Tomer Brisker    |
 
 

@@ -30,5 +30,7 @@
 | 2025.02.05 | Python     | [The Evolution of Python Monitoring ](https://python.code-maven.com/the-evolution-of-python-monitoring)                           | May Walter       | [register](https://www.meetup.com/code-mavens/events/305453203/) |
 | 2025.02.11 | Rust       | [Meet Elusion: New DataFrame Library powered by Rust 🦀 ](https://rust.code-maven.com/meet-elusion-mew-dataframe-library)         | Borivoj Grujicic | [register](https://www.meetup.com/code-mavens/events/305513416/) |
 | 2025.02.12 | Python     | [Python async.io - From zero to hero](https://python.code-maven.com/async-io-from-zero-to-hero)                                   | Eyal Balla       | [register](https://www.meetup.com/code-mavens/events/305479458/) |
+| 2025.02.20 | Python     | [Simulations for the Mathematically Challenged](https://python.code-maven.com/simulations-for-the-mathematically-challenged)      | Miki Tebeka      | [register](https://www.meetup.com/code-mavens/events/305223619/) |
+| 2025.02.25 | Python     | [Reducing your memory footprint by 75% with 6 lines](https://python.code-maven.com/reducing-your-memory-footprint)                | Tomer Brisker    | [register](https://www.meetup.com/code-mavens/events/305492369/) |
 
 
