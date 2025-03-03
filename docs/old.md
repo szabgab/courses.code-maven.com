@@ -32,5 +32,6 @@
 | 2025.02.12 | Python     | [Python async.io - From zero to hero](https://python.code-maven.com/async-io-from-zero-to-hero)                                   | Eyal Balla       | [register](https://www.meetup.com/code-mavens/events/305479458/) |
 | 2025.02.20 | Python     | [Simulations for the Mathematically Challenged](https://python.code-maven.com/simulations-for-the-mathematically-challenged)      | Miki Tebeka      | [register](https://www.meetup.com/code-mavens/events/305223619/) |
 | 2025.02.25 | Python     | [Reducing your memory footprint by 75% with 6 lines](https://python.code-maven.com/reducing-your-memory-footprint)                | Tomer Brisker    | [register](https://www.meetup.com/code-mavens/events/305492369/) |
+| 2025.03.02 | Git        | [Creating a website on GitHub Pages using Markdown](https://git.code-maven.com/creating-a-website-on-github-pages-using-markdown) | Gábor Szabó      | [register](https://www.meetup.com/code-mavens/events/306048290/) |
 
 
