@@ -33,5 +33,8 @@
 | 2025.02.20 | Python     | [Simulations for the Mathematically Challenged](https://python.code-maven.com/simulations-for-the-mathematically-challenged)      | Miki Tebeka      | [register](https://www.meetup.com/code-mavens/events/305223619/) |
 | 2025.02.25 | Python     | [Reducing your memory footprint by 75% with 6 lines](https://python.code-maven.com/reducing-your-memory-footprint)                | Tomer Brisker    | [register](https://www.meetup.com/code-mavens/events/305492369/) |
 | 2025.03.02 | Git        | [Creating a website on GitHub Pages using Markdown](https://git.code-maven.com/creating-a-website-on-github-pages-using-markdown) | Gábor Szabó      | [register](https://www.meetup.com/code-mavens/events/306048290/) |
+| 2025.03.04 | Rust       | [Parsing with Winnow in Rust](https://rust.code-maven.com/parsing-with-winnow)                                                    | Kenny Flegal     | [register](https://www.meetup.com/code-mavens/events/305793122/) |
+| 2025.03.05 | Python     | [daffodil, data frames for optimized data inspection and logical processing](https://python.code-maven.com/daffodil-data-frames-for-optimized-data-inspection-and-logical-processing)  | Ray Lutz | [register](https://www.meetup.com/code-mavens/events/305731787/) |
+| 2025.03.06 | Rust       | [Ratatui - Terminal User Interfaces in Rust](https://rust.code-maven.com/ratatui-tui-in-rust)                                     | Orhun Parmaksız  | [register](https://www.meetup.com/code-mavens/events/305750365/) |
 
 
