@@ -36,5 +36,8 @@
 | 2025.03.04 | Rust       | [Parsing with Winnow in Rust](https://rust.code-maven.com/parsing-with-winnow)                                                    | Kenny Flegal     | [register](https://www.meetup.com/code-mavens/events/305793122/) |
 | 2025.03.05 | Python     | [daffodil, data frames for optimized data inspection and logical processing](https://python.code-maven.com/daffodil-data-frames-for-optimized-data-inspection-and-logical-processing)  | Ray Lutz | [register](https://www.meetup.com/code-mavens/events/305731787/) |
 | 2025.03.06 | Rust       | [Ratatui - Terminal User Interfaces in Rust](https://rust.code-maven.com/ratatui-tui-in-rust)                                     | Orhun Parmaksız  | [register](https://www.meetup.com/code-mavens/events/305750365/) |
+| 2025.03.09 | Rust       | [Creating A Mock Blockchain in Rust](https://rust.code-maven.com//creating-a-mock-blockchain-in-rust)                             | Sourav Mishra    | [register](https://www.meetup.com/code-mavens/events/305587087/) |
+| 2025.03.11 | Python     | [Using Streamlit to create interactive web apps & deploy machine learning models](https://python.code-maven.com/using-streamlit)  | Leah Levy        | [register](https://www.meetup.com/code-mavens/events/305584832/) |
+| 2025.03.12 | JavaScript | [Vanilla Boot - Developing reusable UI components with Vanilla JavaScript](https://code-maven.com/vanilla-boot)                   | Eyal Lior        | [register](https://www.meetup.com/code-mavens/events/306509530/) |
 
 

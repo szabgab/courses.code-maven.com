@@ -8,9 +8,6 @@ Organizer: [Gabor Szabo](https://szabgab.com/)
 
 | When       | Language   | Title | Who | Register |
 | ---------- | ---------- | -----------------------------------------------------------------------------------------------------------------------------     | --- | -------- |
-| 2025.03.09 | Rust       | [Creating A Mock Blockchain in Rust](https://rust.code-maven.com//creating-a-mock-blockchain-in-rust)                             | Sourav Mishra    | [register](https://www.meetup.com/code-mavens/events/305587087/) |
-| 2025.03.11 | Python     | [Using Streamlit to create interactive web apps & deploy machine learning models](https://python.code-maven.com/using-streamlit)  | Leah Levy        | [register](https://www.meetup.com/code-mavens/events/305584832/) |
-| 2025.03.12 | JavaScript | Vanilla Boot - Developing reusable UI components with Vanilla JavaScript                                                          | Eyal Lior        | [register](https://www.meetup.com/code-mavens/events/306509530/) |
 | 2025.03.18 | Rust       | [crum: Complex Numbers and Complex Matrices in Rust](https://rust.code-maven.com/crum)                                            | Frans Slabber    | [register](https://www.meetup.com/code-mavens/events/305823397/) |
 | 2025.03.20 | Rust       | [Rust and embedded programming](https://rust.code-maven.com/rust-and-embedded-programming-with-leon-vak)                          | Leon Vak         | [register](https://www.meetup.com/code-mavens/events/306357728/) |
 
@@ -55,5 +52,8 @@ Organizer: [Gabor Szabo](https://szabgab.com/)
 | 2025.03.04 | Rust       | [Parsing with Winnow in Rust](https://rust.code-maven.com/parsing-with-winnow)                                                                   | Kenny Flegal     |
 | 2025.03.05 | Python     | [daffodil, data frames for optimized data inspection and logical processing](https://python.code-maven.com/daffodil-data-frames-for-optimized-data-inspection-and-logical-processing)  | Ray Lutz |
 | 2025.03.06 | Rust       | [Ratatui - Terminal User Interfaces in Rust](https://rust.code-maven.com/ratatui-tui-in-rust)                                                    | Orhun Parmaksız  |
+| 2025.03.09 | Rust       | [Creating A Mock Blockchain in Rust](https://rust.code-maven.com//creating-a-mock-blockchain-in-rust)                                            | Sourav Mishra    |
+| 2025.03.11 | Python     | [Using Streamlit to create interactive web apps & deploy machine learning models](https://python.code-maven.com/using-streamlit)                 | Leah Levy        |
+| 2025.03.12 | JavaScript | [Vanilla Boot - Developing reusable UI components with Vanilla JavaScript](https://code-maven.com/vanilla-boot)                                  | Eyal Lior        |
 
 
