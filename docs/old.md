@@ -39,5 +39,7 @@
 | 2025.03.09 | Rust       | [Creating A Mock Blockchain in Rust](https://rust.code-maven.com//creating-a-mock-blockchain-in-rust)                             | Sourav Mishra    | [register](https://www.meetup.com/code-mavens/events/305587087/) |
 | 2025.03.11 | Python     | [Using Streamlit to create interactive web apps & deploy machine learning models](https://python.code-maven.com/using-streamlit)  | Leah Levy        | [register](https://www.meetup.com/code-mavens/events/305584832/) |
 | 2025.03.12 | JavaScript | [Vanilla Boot - Developing reusable UI components with Vanilla JavaScript](https://code-maven.com/vanilla-boot)                   | Eyal Lior        | [register](https://www.meetup.com/code-mavens/events/306509530/) |
+| 2025.03.18 | Rust       | [crum: Complex Numbers and Complex Matrices in Rust](https://rust.code-maven.com/crum)                                            | Frans Slabber    | [register](https://www.meetup.com/code-mavens/events/305823397/) |
+| 2025.03.20 | Rust       | [Rust and embedded programming](https://rust.code-maven.com/rust-and-embedded-programming-with-leon-vak)                          | Leon Vak         | [register](https://www.meetup.com/code-mavens/events/306357728/) |
 
 

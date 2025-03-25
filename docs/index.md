@@ -8,8 +8,7 @@ Organizer: [Gabor Szabo](https://szabgab.com/)
 
 | When       | Language   | Title | Who | Register |
 | ---------- | ---------- | -----------------------------------------------------------------------------------------------------------------------------     | --- | -------- |
-| 2025.03.18 | Rust       | [crum: Complex Numbers and Complex Matrices in Rust](https://rust.code-maven.com/crum)                                            | Frans Slabber    | [register](https://www.meetup.com/code-mavens/events/305823397/) |
-| 2025.03.20 | Rust       | [Rust and embedded programming](https://rust.code-maven.com/rust-and-embedded-programming-with-leon-vak)                          | Leon Vak         | [register](https://www.meetup.com/code-mavens/events/306357728/) |
+| 2025.04.27 |            | When Al Needs a Human Assistant: How to Build Data Annotation Operations                                                          | Liz Polansky andDanielle Menuhin         | [register](https://www.meetup.com/code-mavens/events/306911498/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
 
@@ -55,5 +54,7 @@ Organizer: [Gabor Szabo](https://szabgab.com/)
 | 2025.03.09 | Rust       | [Creating A Mock Blockchain in Rust](https://rust.code-maven.com//creating-a-mock-blockchain-in-rust)                                            | Sourav Mishra    |
 | 2025.03.11 | Python     | [Using Streamlit to create interactive web apps & deploy machine learning models](https://python.code-maven.com/using-streamlit)                 | Leah Levy        |
 | 2025.03.12 | JavaScript | [Vanilla Boot - Developing reusable UI components with Vanilla JavaScript](https://code-maven.com/vanilla-boot)                                  | Eyal Lior        |
+| 2025.03.18 | Rust       | [crum: Complex Numbers and Complex Matrices in Rust](https://rust.code-maven.com/crum)                                                           | Frans Slabber    |
+| 2025.03.20 | Rust       | [Rust and embedded programming](https://rust.code-maven.com/rust-and-embedded-programming-with-leon-vak)                                         | Leon Vak         |
 
 
