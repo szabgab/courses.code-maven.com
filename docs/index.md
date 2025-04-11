@@ -9,7 +9,7 @@ Organizer: [Gabor Szabo](https://szabgab.com/)
 | When       | Language   | Title | Who | Register |
 | ---------- | ---------- | -----------------------------------------------------------------------------------------------------------------------------     | --- | -------- |
 | 2025.04.27 |            | When Al Needs a Human Assistant: How to Build Data Annotation Operations                                                          | Liz Polansky andDanielle Menuhin         | [register](https://www.meetup.com/code-mavens/events/306911498/) |
-| 2025.05.06 | [How to build a microservice with Python + FastAPI to switch from RDS to DynamoDB](https://python.code-maven.com/how-to-build-a-microservice-with-python-and-fastapi) | Nikita Baryshev | [register](https://www.meetup.com/code-mavens/events/307228860/) |
+| 2025.05.06 | Python     | [How to build a microservice with Python + FastAPI to switch from RDS to DynamoDB](https://python.code-maven.com/how-to-build-a-microservice-with-python-and-fastapi) | Nikita Baryshev | [register](https://www.meetup.com/code-mavens/events/307228860/) |
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
 
