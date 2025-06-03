@@ -8,8 +8,7 @@ Organizer: [Gabor Szabo](https://szabgab.com/)
 
 | When       | Language   | Title | Who | Register |
 | ---------- | ---------- | -----------------------------------------------------------------------------------------------------------------------------     | --- | -------- |
-| 2025.05.20 | Rust       | [Rust at Work at Flarion](https://rust.code-maven.com/rust-at-work-flarion)                                              | Ran Reichman   | [register](https://www.meetup.com/code-mavens/events/307635734/) |
-| 2025.05.27 | Rust       | [Rust at Work at Eureka Labs](https://rust.code-maven.com/rust-at-work-eureka-labs)                                      | Eli Shalom & Igal Tabachnik | [register](https://www.meetup.com/code-mavens/events/307673680/) |
+| 2025.06.11 | Rust       | [Rust at Work at Ardan Labs & LibreQoS](https://rust.code-maven.com/rust-at-work-ardan-labs-libreqos.md)                 | Herbert Wolverson | [register](https://www.meetup.com/code-mavens/events/308234298/) |
 
 
 * Check out the [Meetup page](https://www.meetup.com/code-mavens/)
@@ -58,8 +57,10 @@ Organizer: [Gabor Szabo](https://szabgab.com/)
 | 2025.03.12 | JavaScript | [Vanilla Boot - Developing reusable UI components with Vanilla JavaScript](https://code-maven.com/vanilla-boot)                                  | Eyal Lior        |
 | 2025.03.18 | Rust       | [crum: Complex Numbers and Complex Matrices in Rust](https://rust.code-maven.com/crum)                                                           | Frans Slabber    |
 | 2025.03.20 | Rust       | [Rust and embedded programming](https://rust.code-maven.com/rust-and-embedded-programming-with-leon-vak)                                         | Leon Vak         |
-| 2025.04.27 |            | When Al Needs a Human Assistant: How to Build Data Annotation Operations                                                          | Liz Polansky andDanielle Menuhin         |
+| 2025.04.27 |            | When Al Needs a Human Assistant: How to Build Data Annotation Operations                                                                         | Liz Polansky and Danielle Menuhin |
 | 2025.05.06 | Python     | [How to build a microservice with Python + FastAPI to switch from RDS to DynamoDB](https://python.code-maven.com/how-to-build-a-microservice-with-python-and-fastapi) | Nikita Baryshev |
+| 2025.05.20 | Rust       | [Rust at Work at Flarion](https://rust.code-maven.com/rust-at-work-flarion)                                                                      | Ran Reichman   |
+| 2025.05.27 | Rust       | [Rust at Work at Eureka Labs](https://rust.code-maven.com/rust-at-work-eureka-labs)                                                              | Eli Shalom & Igal Tabachnik |
 
 
 

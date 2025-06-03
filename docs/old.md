@@ -43,5 +43,7 @@
 | 2025.03.20 | Rust       | [Rust and embedded programming](https://rust.code-maven.com/rust-and-embedded-programming-with-leon-vak)                          | Leon Vak         | [register](https://www.meetup.com/code-mavens/events/306357728/) |
 | 2025.04.27 |            | When Al Needs a Human Assistant: How to Build Data Annotation Operations                                                          | Liz Polansky andDanielle Menuhin         | [register](https://www.meetup.com/code-mavens/events/306911498/) |
 | 2025.05.06 | Python     | [How to build a microservice with Python + FastAPI to switch from RDS to DynamoDB](https://python.code-maven.com/how-to-build-a-microservice-with-python-and-fastapi) | Nikita Baryshev | [register](https://www.meetup.com/code-mavens/events/307228860/) |
+| 2025.05.20 | Rust       | [Rust at Work at Flarion](https://rust.code-maven.com/rust-at-work-flarion)                                              | Ran Reichman   | [register](https://www.meetup.com/code-mavens/events/307635734/) |
+| 2025.05.27 | Rust       | [Rust at Work at Eureka Labs](https://rust.code-maven.com/rust-at-work-eureka-labs)                                      | Eli Shalom & Igal Tabachnik | [register](https://www.meetup.com/code-mavens/events/307673680/) |
 
 
