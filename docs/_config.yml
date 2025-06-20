@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "Code-Maven Live events"
-description: Virtual presentations, Zoominars
+title: "Code-Maven Live courses"
+description: Live virtual courses
 show_downloads: false
 github:
    is_project_page: false

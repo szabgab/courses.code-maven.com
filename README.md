@@ -1,4 +1,4 @@
-# Live Code-Maven events
+# Code-Maven courses
 
-The source of https://live.code-maven.com/
+The source of https://courses.code-maven.com/
 
