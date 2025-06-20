@@ -16,10 +16,10 @@
 
 ## Schedule
 
-| When       | Language | Title |
-| ---------- | -------- | --------------------------------------------------------------------------------------------------------------------- |
-| 2025.07.09 | Rust     | [Creating a command line tool in Rust - Introduction to Rust](https://www.meetup.com/code-mavens/events/308570532/)   |
-| 2025.07.10 | Python   | [Functional programming in Python](https://www.meetup.com/code-mavens/events/308569703/)                              |
-| 2025.07.14 | Perl     | [Classical OOP - Object Oriented Perl](https://www.meetup.com/code-mavens/events/308568463/)                          |
+| When       | Language | Title                                                                                          | Description                                   |
+| ---------- | -------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 2025.07.09 | Rust     | [Creating a command line tool in Rust](https://www.meetup.com/code-mavens/events/308570532/)   | [desc](/creating-a-command-line-tool-in-rust) |
+| 2025.07.10 | Python   | [Functional programming in Python](https://www.meetup.com/code-mavens/events/308569703/)       | [desc](/functional-programming-in-python)     |
+| 2025.07.14 | Perl     | [Classical OOP - Object Oriented Perl](https://www.meetup.com/code-mavens/events/308568463/)   | [desc](/classical-oop-object-oriented-perl)   |
 
-
+ 
