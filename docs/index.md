@@ -6,17 +6,19 @@
 * Q&A session.
 * Hands-on practice with feedback by Gábor.
 * Personal help.
+<!--
 * Fast feedback on your assignments for one week after the session.
 * Exclusive and unlimited access to the recordings of the presentation.
 
 * After the session is over you can keep experimenting and you can get feedback from me on the code you wrote.
 * I've scheduled 2 hours in which we'll have presentation and practice, but we might stay for another hour for more practice.
 
+-->
 
-
-## Schedule
+See the [Code Mavens Meetup group](https://www.meetup.com/code-mavens/) for upcoming live presentations and the [Code Maven Academy](https://academy.code-maven.com/) for the already recorded courses.
 
 <!--
+## Schedule
 | When       | Language | Title                                                                                          | Description                                   |
 | ---------- | -------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | 2025.07.09 | Rust     | [Creating a command line tool in Rust](https://www.meetup.com/code-mavens/events/308570532/)   | [desc](/creating-a-command-line-tool-in-rust) |
