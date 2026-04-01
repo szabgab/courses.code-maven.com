@@ -6,6 +6,7 @@
 * Q&A session.
 * Hands-on practice with feedback by Gábor.
 * Personal help.
+
 <!--
 * Fast feedback on your assignments for one week after the session.
 * Exclusive and unlimited access to the recordings of the presentation.
